@@ -1,2 +1,2 @@
 # 🌻 sunflower
-A Shi cangjie keyboard word key translation method from any input possible.
+A Shī cangjie keyboard word key translation method from any input possible.
