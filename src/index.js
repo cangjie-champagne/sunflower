@@ -2,7 +2,7 @@ const letters = require('./letters.json');
 const letters_knife = require('telephone-booth');
 const cangjie = require('./cangjie.json');
 
-class PepperSpray {
+class Sunflower {
   constructor(string, d = false) {
     this.debug = d;
     this.phrase = string || '';
@@ -1121,4 +1121,4 @@ class PepperSpray {
   }
 }
 
-module.exports.PepperSpray = PepperSpray;
+module.exports.Sunflower = Sunflower;
